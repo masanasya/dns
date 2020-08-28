@@ -31,3 +31,4 @@ ivideosmart.com
 media-ivstream-mp4.ivideosmart.com
 r.ivideosmart.com
 player.ivideosmart.com
+20.detik.com
