@@ -58,3 +58,5 @@ app-measurement.com
 graph.accountkit.com
 beacons.gcp.gvt2.com
 graph.instagram.com
+cdngarenanow-a.akamaihd.net
+whoami.akamai.net
