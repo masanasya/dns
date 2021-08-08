@@ -61,3 +61,4 @@ graph.instagram.com
 cdngarenanow-a.akamaihd.net
 whoami.akamai.net
 api.v-mate.mobi
+dns.google.com
