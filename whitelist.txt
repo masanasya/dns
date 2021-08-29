@@ -38,6 +38,7 @@ sdkconfig.ad.intl.xiaomi.com
 authbe.sec.intl.miui.com
 resolver.msg.xiaomi.net
 api2.poperblocker.com
+id.google.com
 youtubei.googleapis.com
 api.accelerator.intl.miui.com
 controller.intl.xiaomi.com
