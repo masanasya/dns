@@ -425,3 +425,7 @@ widget.weibo.com
 woocall.sina.com.cn
 zc.biz.weibo.com
 zymo.mps.weibo.com
+data.mistat.xiaomi.com
+data.mistat.intl.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+sa.api.intl.miui.com
