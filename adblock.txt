@@ -33,8 +33,6 @@ r.ivideosmart.com
 player.ivideosmart.com
 20.detik.com
 securepubads.g.doubleclick.net
-amazon.com
-wikipedia.org
 googleads.g.doubleclick.net
 ads30.adcolony.com
 ws.tapjoyads.com
