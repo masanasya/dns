@@ -6,7 +6,6 @@ browserproxy.vivo.com
 domaincfg.vivo.com
 unms.com
 app.chat.global.xiaomi.net
-data.mistat.intl.xiaomi.com
 asia-onrt-stsdk.vivoglobal.com
 beacons.gvt2.com
 behacdn.ksmobile.net
@@ -15,7 +14,6 @@ beacons4.gvt2.com
 incoming.telemetry.mozilla.org
 resolver.msg.global.xiaomi.net
 asia-ort-stsdk.vivoglobal.com
-sa.api.intl.miui.com
 appsitemsuggest-pa.googleapis.com
 app.chat.xiaomi.net
 cmdts.ksmobile.com
@@ -30,11 +28,9 @@ beacons5.gvt3.com
 api.micloud.xiaomi.net
 api.input.intl.miui.com
 beacons.gcp.gvt2.com
-data.mistat.xiaomi.com
 api.sec.miui.com
 us.statusapi.micloud.xiaomi.net
 us.micardapi.micloud.xiaomi.net
-sdkconfig.ad.intl.xiaomi.com
 authbe.sec.intl.miui.com
 resolver.msg.xiaomi.net
 api2.poperblocker.com
